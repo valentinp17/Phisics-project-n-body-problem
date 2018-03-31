@@ -1,2 +1,3 @@
-# Phisics-project-n-body-problem
-ptom
+# Phisics-project-standing-wave-and-Lissajous-curve
+Это мой второ проект по физике, который представляет собой простую симуляцию стоячей волны и кривой Лиссажу.
+
